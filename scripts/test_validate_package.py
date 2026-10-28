@@ -76,6 +76,72 @@ class PackageValidation(unittest.TestCase):
         (self.root / 'SKILL.md').write_text('[absent](references/missing.md)')
         self.assertTrue(any('Broken link' in x for x in validate(self.root)[0]))
 
+    def mixed_layout(self):
+        primary = 'bases/ícone com espaço.png'
+        (self.root / 'bases').mkdir()
+        (self.root / self.rel).rename(self.root / primary)
+        self.entry.update(path=primary, url=BASE + quote(primary, safe='/'))
+        supplemental = 'koinlustra 3/assets/references/exploracoes/legacy.png'
+        (self.root / supplemental).parent.mkdir(parents=True)
+        (self.root / supplemental).write_bytes(self.data)
+        self.manifest['entries'].append(dict(self.entry, path=supplemental,
+                                            url=BASE + quote(supplemental, safe='/')))
+        self.manifest.update(count=2, asset_roots=['bases'])
+        self.write()
+        (self.root / 'SKILL.md').write_text('[imagem](' + self.entry['url'] + ')')
+        return supplemental
+
+    def test_mixed_layout_and_unrelated_legacy_content(self):
+        supplemental = self.mixed_layout()
+        (self.root / supplemental).with_name('unlisted-old.png').write_bytes(self.data)
+        (self.root / 'koinlustra 3/SKILL.md').write_text('[obsolete](absent.png)')
+        self.assertEqual(validate(self.root), ([], 2))
+
+    def test_extra_primary_image_rejected_in_mixed_layout(self):
+        self.mixed_layout()
+        (self.root / 'bases/extra.png').write_bytes(self.data)
+        self.assertTrue(any('tree differs' in x for x in validate(self.root)[0]))
+
+    def test_supplemental_reference_still_required(self):
+        supplemental = self.mixed_layout()
+        (self.root / supplemental).unlink()
+        self.assertTrue(any('Missing' in x for x in validate(self.root)[0]))
+
+    def test_supplemental_hash_still_checked(self):
+        supplemental = self.mixed_layout()
+        (self.root / supplemental).write_bytes(self.data + b'changed')
+        self.assertTrue(any('SHA-256' in x for x in validate(self.root)[0]))
+
+    def test_unsafe_asset_roots_rejected(self):
+        for scope in ['../outside', '/absolute', 'assets\\outside', '', '.', None]:
+            with self.subTest(scope=scope):
+                self.manifest['asset_roots'] = [scope]
+                self.write()
+                self.assertTrue(any('Unsafe asset root' in x for x in validate(self.root)[0]))
+
+    def test_asset_roots_must_be_a_list(self):
+        self.manifest['asset_roots'] = 'assets'
+        self.write()
+        self.assertTrue(any('Unsafe asset roots' in x for x in validate(self.root)[0]))
+
+    def test_symlink_asset_root_rejected(self):
+        outside = Path(self.temp.name) / 'outside'
+        outside.mkdir()
+        (self.root / 'linked').symlink_to(outside, target_is_directory=True)
+        self.manifest['asset_roots'] = ['linked']
+        self.write()
+        self.assertTrue(any('Unsafe asset root' in x for x in validate(self.root)[0]))
+
+    def test_nested_active_document_link_checked(self):
+        (self.root / 'references/nested').mkdir()
+        (self.root / 'references/nested/guide.md').write_text('[missing](absent.png)')
+        self.assertTrue(any('Broken link' in x for x in validate(self.root)[0]))
+
+    def test_truncated_png_rejected_without_crashing(self):
+        (self.root / self.rel).write_bytes(self.data[:20])
+        self.assertTrue(any('Not a PNG' in x for x in validate(self.root)[0]))
+
 
 if __name__ == '__main__':
     unittest.main()
+
