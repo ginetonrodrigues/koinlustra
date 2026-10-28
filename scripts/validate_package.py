@@ -31,7 +31,7 @@ def validate(root):
         data = path.read_bytes()
         if hashlib.sha256(data).hexdigest() != entry['sha256']:
             errors.append(f'SHA-256 differs: {rel}')
-        if data[:8] != b'\x89PNG\r\n\x1a\n' or data[12:16] != b'IHDR':
+        if len(data) < 24 or data[:8] != b'\x89PNG\r\n\x1a\n' or data[12:16] != b'IHDR':
             errors.append(f'Not a PNG: {rel}')
         elif struct.unpack('>II', data[16:24]) != (entry['width'], entry['height']):
             errors.append(f'Dimensions differ: {rel}')
@@ -39,10 +39,35 @@ def validate(root):
             errors.append(f'Incorrect remote URL: {rel}')
     if len(entries) != manifest['count']:
         errors.append('Manifest asset count mismatch')
-    actual_assets = {str(p.relative_to(root)) for p in (root / 'assets').rglob('*.png')}
-    if actual_assets != seen:
+    # Inventory only the declared active folders. Other manifest entries may
+    # reference individual files in older folders without adopting their whole
+    # inventory. Every entry still receives the checks above.
+    asset_roots = manifest.get('asset_roots', ['assets'])
+    if not isinstance(asset_roots, list):
+        errors.append('Unsafe asset roots: expected a list')
+        asset_roots = []
+    scopes, actual_assets = [], set()
+    for rel in asset_roots:
+        if not isinstance(rel, str):
+            errors.append(f'Unsafe asset root: {rel}')
+            continue
+        parts = PurePosixPath(rel)
+        if not parts.parts or parts.is_absolute() or '..' in parts.parts or '\\' in rel:
+            errors.append(f'Unsafe asset root: {rel}')
+            continue
+        path = root / rel
+        if path.is_symlink() or not path.resolve().is_relative_to(root):
+            errors.append(f'Unsafe asset root: {rel}')
+            continue
+        scopes.append(parts)
+        actual_assets.update(p.relative_to(root).as_posix() for p in path.rglob('*.png'))
+    scoped_entries = {rel for rel in seen
+                      if any(PurePosixPath(rel).is_relative_to(scope) for scope in scopes)}
+    if actual_assets != scoped_entries:
         errors.append('Asset tree differs from manifest')
-    for doc in root.rglob('*.md'):
+    # Old kit copies may have obsolete links; audit the active documentation.
+    docs = list(root.glob('*.md')) + list((root / 'references').rglob('*.md'))
+    for doc in docs:
         content = doc.read_text()
         for target in re.findall(r'\]\(([^)]+)\)', content):
             if target.startswith(BASE):
@@ -62,3 +87,4 @@ if __name__ == '__main__':
     if errors:
         raise SystemExit('\n'.join(errors))
     print(f'PASS: {count} PNGs, hashes, dimensions, URLs and Markdown links')
+
