@@ -1,0 +1,1329 @@
+{
+  "scope": "Acervo visual recuperado para este kit; não é inventário exaustivo de todo o histórico.",
+  "count": 85,
+  "individual_count": 79,
+  "entries": [
+    {
+      "path": "assets/references/acervo-66/01-financeiro-e-pagamentos/koin-calendario.png",
+      "subject": "calendario",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "01-financeiro-e-pagamentos/koin-calendario.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "cefed0706f84b5897cbfb4c5ea0962148e9b62b9f77c09df69c5e2da9ca04674"
+    },
+    {
+      "path": "assets/references/acervo-66/01-financeiro-e-pagamentos/koin-moedas.png",
+      "subject": "moedas",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "01-financeiro-e-pagamentos/koin-moedas.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "153bcbb0063967cceaab2efb04619f13f1b834d406d3f4bf7ce15c0996fd3786"
+    },
+    {
+      "path": "assets/references/acervo-66/02-conta-e-relacionamento/koin-lupa.png",
+      "subject": "lupa",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "02-conta-e-relacionamento/koin-lupa.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "28e297764e9d731376d521c1388374fa7521db672b3f361036c7e25d3976dcd1"
+    },
+    {
+      "path": "assets/references/acervo-66/02-conta-e-relacionamento/koin-celebracao.png",
+      "subject": "celebracao",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "02-conta-e-relacionamento/koin-celebracao.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "3f4f439121c20948ecb2ace649870c315921487ff7ef46a8ce340369311de1a9"
+    },
+    {
+      "path": "assets/references/acervo-66/02-conta-e-relacionamento/koin-configuracoes.png",
+      "subject": "configuracoes",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "02-conta-e-relacionamento/koin-configuracoes.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "3bc2fc71de8530134f2bf5d7d98a282775645547be5269fe1fd3d7129caa61af"
+    },
+    {
+      "path": "assets/references/acervo-66/01-financeiro-e-pagamentos/koin-grafico.png",
+      "subject": "grafico",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "01-financeiro-e-pagamentos/koin-grafico.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "2298b3f4e3b47899ddbcc38b9ff04300beb1f9e71c4bd3ccfc1f7fd5d8dda713"
+    },
+    {
+      "path": "assets/references/acervo-66/01-financeiro-e-pagamentos/koin-carteira.png",
+      "subject": "carteira",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "01-financeiro-e-pagamentos/koin-carteira.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "2ba3dcf699f2d868593fa2ffd8a2286537f1acd304290c1e2d9b54ea7b2be1ef"
+    },
+    {
+      "path": "assets/references/acervo-66/01-financeiro-e-pagamentos/koin-movimentacao.png",
+      "subject": "movimentacao",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "01-financeiro-e-pagamentos/koin-movimentacao.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "6854ecadaecc511d452878ee5b292d286d50a8d4ffe5abcae661a84ebc1a50a5"
+    },
+    {
+      "path": "assets/references/acervo-66/01-financeiro-e-pagamentos/koin-campanha.png",
+      "subject": "campanha",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "01-financeiro-e-pagamentos/koin-campanha.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "ee4f371a01eeba91106a30d8730dceb844a06146534b09bdda0da815633fedd2"
+    },
+    {
+      "path": "assets/references/acervo-66/02-conta-e-relacionamento/koin-notificacao.png",
+      "subject": "notificacao",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "02-conta-e-relacionamento/koin-notificacao.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "ca4e960ccbc1e190990b751cdf778cdf27b1ef65fa8ee12ebb3885ead84d221a"
+    },
+    {
+      "path": "assets/references/acervo-66/01-financeiro-e-pagamentos/koin-dinheiro.png",
+      "subject": "dinheiro",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "01-financeiro-e-pagamentos/koin-dinheiro.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "c685c82477431574738921568d99420c36cef5573d8842f2556ae77e6a39c67e"
+    },
+    {
+      "path": "assets/references/acervo-66/01-financeiro-e-pagamentos/koin-metas-economia.png",
+      "subject": "metas economia",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "01-financeiro-e-pagamentos/koin-metas-economia.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "7349a19ac861561031ce157ef1d62ee80a8a3972943fc1bf6e35663136c3aa5a"
+    },
+    {
+      "path": "assets/references/acervo-66/02-conta-e-relacionamento/koin-enviar.png",
+      "subject": "enviar",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "02-conta-e-relacionamento/koin-enviar.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "66f0edae1308e6090b67edb845bd82203c068c3e219611ed20204ee76bc2d211"
+    },
+    {
+      "path": "assets/references/acervo-66/02-conta-e-relacionamento/koin-seguranca.png",
+      "subject": "seguranca",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "02-conta-e-relacionamento/koin-seguranca.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "3467aed0ba0e4d2f063d3a612831c00d3b54e3c7cb89f74114345d5b6aec3dc7"
+    },
+    {
+      "path": "assets/references/acervo-66/01-financeiro-e-pagamentos/koin-internacional.png",
+      "subject": "internacional",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "01-financeiro-e-pagamentos/koin-internacional.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "00cc2de539339ee8ae26364f5130d36bd5ce83849645b077062456a767fb6925"
+    },
+    {
+      "path": "assets/references/acervo-66/01-financeiro-e-pagamentos/koin-confirmacao.png",
+      "subject": "confirmacao",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "01-financeiro-e-pagamentos/koin-confirmacao.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "8725fc569f60e126be4d2811ebce522424e68936ac2d6a923883db90302b8bcd"
+    },
+    {
+      "path": "assets/references/acervo-66/03-erros-e-alertas/koin-alerta.png",
+      "subject": "alerta",
+      "state": "alerta-ou-erro-historico",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "03-erros-e-alertas/koin-alerta.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "936439e2b691d678d88831f8f0865fb4139b71c8b172746ffe4271e6be4a186a"
+    },
+    {
+      "path": "assets/references/acervo-66/02-conta-e-relacionamento/koin-mensagem-koin.png",
+      "subject": "mensagem koin",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "02-conta-e-relacionamento/koin-mensagem-koin.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "a87abf99f22c97be283c3c5503f8765e45310356f57c5c90debedc5313d69eb7"
+    },
+    {
+      "path": "assets/references/acervo-66/02-conta-e-relacionamento/koin-negocios.png",
+      "subject": "negocios",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "02-conta-e-relacionamento/koin-negocios.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "467930b17be53ab3e7bfe78c9888ba720aab6d31aaef4183da6ee4fd4c25301a"
+    },
+    {
+      "path": "assets/references/acervo-66/02-conta-e-relacionamento/koin-casa.png",
+      "subject": "casa",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "02-conta-e-relacionamento/koin-casa.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "2e4fbb52f298e3396a49aa8876435562393a30a2b15566e696cfd1bf222e9071"
+    },
+    {
+      "path": "assets/references/acervo-66/02-conta-e-relacionamento/koin-email.png",
+      "subject": "email",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "02-conta-e-relacionamento/koin-email.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "c1d76d700ba0aacb9519b5b09d5b031c137bd354029ee04c621fd97420608301"
+    },
+    {
+      "path": "assets/references/acervo-66/02-conta-e-relacionamento/koin-conclusao.png",
+      "subject": "conclusao",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "02-conta-e-relacionamento/koin-conclusao.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "a7a3db7f73eb2f430a33d4a93a62b89c9a35c4352c5a17556651556c38e31650"
+    },
+    {
+      "path": "assets/references/acervo-66/03-erros-e-alertas/koin-sem-conexao.png",
+      "subject": "sem conexao",
+      "state": "alerta-ou-erro-historico",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "03-erros-e-alertas/koin-sem-conexao.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "5330f10cdc8fa66a76a811f752b541031aba14fb6fa3d8b0926208a78bd4d3b6"
+    },
+    {
+      "path": "assets/references/acervo-66/02-conta-e-relacionamento/koin-integracao.png",
+      "subject": "integracao",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "02-conta-e-relacionamento/koin-integracao.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "dc09fa9826591dd8b717d56911490035dec7a3831f5d9a0116bd632738c2a5b2"
+    },
+    {
+      "path": "assets/references/acervo-66/02-conta-e-relacionamento/koin-aplicativo.png",
+      "subject": "aplicativo",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "02-conta-e-relacionamento/koin-aplicativo.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "9b89217aa7c00c07d6f90fc3be6a393e89596d29ec5cc04f7fcbe6929ecc1ff2"
+    },
+    {
+      "path": "assets/references/acervo-66/02-conta-e-relacionamento/koin-identificacao.png",
+      "subject": "identificacao",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "02-conta-e-relacionamento/koin-identificacao.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "a9abc31b88186e56f06acc48d6d3b4d76b05d4f9aeefd77d57ac8c2ff47f1c07"
+    },
+    {
+      "path": "assets/references/acervo-66/03-erros-e-alertas/koin-manutencao.png",
+      "subject": "manutencao",
+      "state": "alerta-ou-erro-historico",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "03-erros-e-alertas/koin-manutencao.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "dbe1608e0d3819861b608926d06bd484600b4c6651fad0828d83a81f69687b2a"
+    },
+    {
+      "path": "assets/references/acervo-66/03-erros-e-alertas/koin-em-construcao.png",
+      "subject": "em construcao",
+      "state": "alerta-ou-erro-historico",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "03-erros-e-alertas/koin-em-construcao.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "a93fb393176e03b929c09fc8b819e20e7f517bd2ddc0fa316bf0cf9efc44bd7e"
+    },
+    {
+      "path": "assets/references/acervo-66/02-conta-e-relacionamento/koin-aguardando.png",
+      "subject": "aguardando",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "02-conta-e-relacionamento/koin-aguardando.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "fb1ec7dd54003ce2ff8df5a8260dc451490dfe06de91a2466caf35cd634ed93b"
+    },
+    {
+      "path": "assets/references/acervo-66/02-conta-e-relacionamento/koin-documento.png",
+      "subject": "documento",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "02-conta-e-relacionamento/koin-documento.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "787239bcc83e8ca9ee9001f48c9fb9066508b95af1eee22e25c633e725fb0a1a"
+    },
+    {
+      "path": "assets/references/acervo-66/01-financeiro-e-pagamentos/koin-entrada.png",
+      "subject": "entrada",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "01-financeiro-e-pagamentos/koin-entrada.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "e45b0c5faad1776cedd1eca39af3a9519a064705f526db8c6197e35e36315bdb"
+    },
+    {
+      "path": "assets/references/acervo-66/01-financeiro-e-pagamentos/koin-acompanhar-parcelas.png",
+      "subject": "acompanhar parcelas",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "01-financeiro-e-pagamentos/koin-acompanhar-parcelas.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "8c90d48bae435c3e44264e5ac17a33811b9579a0213413b0bbd7f587873e18d0"
+    },
+    {
+      "path": "assets/references/acervo-66/01-financeiro-e-pagamentos/koin-parcela-a-pagar.png",
+      "subject": "parcela a pagar",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "01-financeiro-e-pagamentos/koin-parcela-a-pagar.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "28d8dbf3bd632c6f7f8d1276c5c9e32d93bab2cb5f390371955328c6705b8f1e"
+    },
+    {
+      "path": "assets/references/acervo-66/01-financeiro-e-pagamentos/koin-pagamento-confirmado.png",
+      "subject": "pagamento confirmado",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "01-financeiro-e-pagamentos/koin-pagamento-confirmado.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "6e68325e7895b7feb4584c65858710f8315f16dbe7e916054222a725a27ef5d8"
+    },
+    {
+      "path": "assets/references/acervo-66/01-financeiro-e-pagamentos/koin-pix.png",
+      "subject": "pix",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "01-financeiro-e-pagamentos/koin-pix.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "af91acb5c8f7f1c3cd96be1ae0e0c1c44bce72fb477820e62a75dfa1f2a14253"
+    },
+    {
+      "path": "assets/references/acervo-66/01-financeiro-e-pagamentos/koin-qr-code.png",
+      "subject": "qr code",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "01-financeiro-e-pagamentos/koin-qr-code.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "5831d1dd8409dee732e6a4381bd6f68b3e127c4e61c9c29bf0fef6241e38c50f"
+    },
+    {
+      "path": "assets/references/acervo-66/01-financeiro-e-pagamentos/koin-ler-qr-code.png",
+      "subject": "ler qr code",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "01-financeiro-e-pagamentos/koin-ler-qr-code.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "d8b46443612ab5f1409a7fa768c049c073c9cad10c7a42c35d0affcb8c797a8f"
+    },
+    {
+      "path": "assets/references/acervo-66/01-financeiro-e-pagamentos/koin-pix-copia-cola.png",
+      "subject": "pix copia cola",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "01-financeiro-e-pagamentos/koin-pix-copia-cola.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "4c16e1e43dc54543eb54cee5d89b12dd2d5c631c3e9b390e6283d7884f7ad498"
+    },
+    {
+      "path": "assets/references/acervo-66/02-conta-e-relacionamento/koin-indicar-amigo.png",
+      "subject": "indicar amigo",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "02-conta-e-relacionamento/koin-indicar-amigo.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "0ad89f779bb26e65eafdffa237ab8ec9fbb98a48f21e1fbf91d747c0195fedcf"
+    },
+    {
+      "path": "assets/references/acervo-66/02-conta-e-relacionamento/koin-recompensa-indicacao.png",
+      "subject": "recompensa indicacao",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "02-conta-e-relacionamento/koin-recompensa-indicacao.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "bef10dd63cd06c03dc4ea284aa0952995874b2ea56e9c0ed2c728834a976e935"
+    },
+    {
+      "path": "assets/references/acervo-66/01-financeiro-e-pagamentos/koin-pontos.png",
+      "subject": "pontos",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "01-financeiro-e-pagamentos/koin-pontos.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "f7f7230b26b9d24095bff42c45191f3ccf26b6b1a6c4c83311d02241fc5a8e3d"
+    },
+    {
+      "path": "assets/references/acervo-66/01-financeiro-e-pagamentos/koin-resgatar-pontos.png",
+      "subject": "resgatar pontos",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "01-financeiro-e-pagamentos/koin-resgatar-pontos.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "5f60e91ac45b41eda8f4d7edcc2dd6cc8b0419207ac096a2cd67d99f2ff797ee"
+    },
+    {
+      "path": "assets/references/acervo-66/01-financeiro-e-pagamentos/koin-cupom-aplicado.png",
+      "subject": "cupom aplicado",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "01-financeiro-e-pagamentos/koin-cupom-aplicado.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "1092c268113eb9ae00d0498e05914ba76e993a2347f7bc4c281b8852bb8149ee"
+    },
+    {
+      "path": "assets/references/acervo-66/01-financeiro-e-pagamentos/koin-calculadora.png",
+      "subject": "calculadora",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "01-financeiro-e-pagamentos/koin-calculadora.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "0ccccc06ab15089c44c1b6e320cc3f1a68a09578bca9e12c43d6374842cbca88"
+    },
+    {
+      "path": "assets/references/acervo-66/01-financeiro-e-pagamentos/koin-cartao.png",
+      "subject": "cartao",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "01-financeiro-e-pagamentos/koin-cartao.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "48fe584ec54eb4756a46eef375e3cd56a09fb01f696dc5a1667696947d5262b7"
+    },
+    {
+      "path": "assets/references/acervo-66/02-conta-e-relacionamento/koin-perfil.png",
+      "subject": "perfil",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "02-conta-e-relacionamento/koin-perfil.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "f939a59afd3e213aa8ad344f905b41126ff5f65b638a6ed1b61def5b11af70a6"
+    },
+    {
+      "path": "assets/references/acervo-66/02-conta-e-relacionamento/koin-localizacao.png",
+      "subject": "localizacao",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "02-conta-e-relacionamento/koin-localizacao.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "eda1d95e5f31ccc387bc90707b19449cc0718c73fb2c49ffc0dda0ec6ee84842"
+    },
+    {
+      "path": "assets/references/acervo-66/02-conta-e-relacionamento/koin-pasta.png",
+      "subject": "pasta",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "02-conta-e-relacionamento/koin-pasta.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "a5e017eac055e0b8d347d43979bcacea3e6bb2f29410077df70e60cfe6dd485b"
+    },
+    {
+      "path": "assets/references/acervo-66/01-financeiro-e-pagamentos/koin-boleto.png",
+      "subject": "boleto",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "01-financeiro-e-pagamentos/koin-boleto.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "948687c90fb55821a32dbb39e33935f12c18a15091d09efbdf1aa1004affda85"
+    },
+    {
+      "path": "assets/references/acervo-66/02-conta-e-relacionamento/koin-ler-documento.png",
+      "subject": "ler documento",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "02-conta-e-relacionamento/koin-ler-documento.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "47b09cb9281c8afa4df1e9289ec3d822a2b53704fec351b9b44c5bf5ae8e623f"
+    },
+    {
+      "path": "assets/references/acervo-66/02-conta-e-relacionamento/koin-reconhecimento-facial.png",
+      "subject": "reconhecimento facial",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "02-conta-e-relacionamento/koin-reconhecimento-facial.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "e97d09daabfb6847ccbae1a14484cc884f313f9214eb6295ca52cb173b37c89f"
+    },
+    {
+      "path": "assets/references/acervo-66/02-conta-e-relacionamento/koin-senha.png",
+      "subject": "senha",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "02-conta-e-relacionamento/koin-senha.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "32a4b6c7fc9957b2d56c5cb3fd98aa2982490432e69bf1cb4c747d7b5ec226a7"
+    },
+    {
+      "path": "assets/references/acervo-66/02-conta-e-relacionamento/koin-atendimento.png",
+      "subject": "atendimento",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "02-conta-e-relacionamento/koin-atendimento.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "46d7a7fca7b71b11123eacde5228a1cb8606ad52be6728b91a1002c9a394ce35"
+    },
+    {
+      "path": "assets/references/acervo-66/01-financeiro-e-pagamentos/koin-compras.png",
+      "subject": "compras",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "01-financeiro-e-pagamentos/koin-compras.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "05974abb9a7572bb15101f5dbb86d240ee16c00120dcb39dc31c1e258800427d"
+    },
+    {
+      "path": "assets/references/acervo-66/01-financeiro-e-pagamentos/koin-pagamento-presencial.png",
+      "subject": "pagamento presencial",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "01-financeiro-e-pagamentos/koin-pagamento-presencial.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "1a99f8c2ec1c6aaa8e42a54f058aa8d9545b5f3ea78efac34a5a736f8d8355f1"
+    },
+    {
+      "path": "assets/references/acervo-66/02-conta-e-relacionamento/koin-familia.png",
+      "subject": "familia",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "02-conta-e-relacionamento/koin-familia.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "fc3b8ea0c074d8c65984c3edb121f1cb79a6f271375e5dab240184e57aadc2b1"
+    },
+    {
+      "path": "assets/references/acervo-66/02-conta-e-relacionamento/koin-aniversario.png",
+      "subject": "aniversario",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "02-conta-e-relacionamento/koin-aniversario.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "9afe59c0a658b44b842c1d105b4757130c1dd7a1178b24419b5cabe6fe2e0a6f"
+    },
+    {
+      "path": "assets/references/acervo-66/02-conta-e-relacionamento/koin-sorte.png",
+      "subject": "sorte",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "02-conta-e-relacionamento/koin-sorte.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "e864101eb2f13e8151b7bb753de179c66ee3a0ee5032ab62462420c925ac6e62"
+    },
+    {
+      "path": "assets/references/acervo-66/02-conta-e-relacionamento/koin-enviar-documentos.png",
+      "subject": "enviar documentos",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "02-conta-e-relacionamento/koin-enviar-documentos.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "052e5f4e65f49298549fe7f16b6785c9d8ec96f30582fa1b6da442f6de934c96"
+    },
+    {
+      "path": "assets/references/acervo-66/03-erros-e-alertas/koin-prazo-expirado.png",
+      "subject": "prazo expirado",
+      "state": "alerta-ou-erro-historico",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "03-erros-e-alertas/koin-prazo-expirado.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "337299ed26c263d14cde1b490dd466e9fc2c02a0c0d904dcf05b499903ba1cf9"
+    },
+    {
+      "path": "assets/references/acervo-66/02-conta-e-relacionamento/koin-agendamento-confirmado.png",
+      "subject": "agendamento confirmado",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "02-conta-e-relacionamento/koin-agendamento-confirmado.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "53cff63a55b2c93e71ea7b61a0d410ba0e8908e16315a88bc1b4ef0bdafd45b7"
+    },
+    {
+      "path": "assets/references/acervo-66/03-erros-e-alertas/koin-falha-email.png",
+      "subject": "falha email",
+      "state": "alerta-ou-erro-historico",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "03-erros-e-alertas/koin-falha-email.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "327068db875db0389cd2e956ee0a8a7b9d075ebde5ed5dba7987dbc284b19166"
+    },
+    {
+      "path": "assets/references/acervo-66/02-conta-e-relacionamento/koin-identidade-validada.png",
+      "subject": "identidade validada",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "02-conta-e-relacionamento/koin-identidade-validada.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "dcba4d0fca8b1894335df1b08ebe3345934252d26dc378073a13b4c5ab11f7c0"
+    },
+    {
+      "path": "assets/references/acervo-66/01-financeiro-e-pagamentos/koin-parcelamento.png",
+      "subject": "parcelamento",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "01-financeiro-e-pagamentos/koin-parcelamento.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "048b842bf7da56f4c80720c89249bc981aaf76c0accaf444e8ff9b33e06ec94c"
+    },
+    {
+      "path": "assets/references/acervo-66/01-financeiro-e-pagamentos/koin-reembolso.png",
+      "subject": "reembolso",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "01-financeiro-e-pagamentos/koin-reembolso.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "ceba59c415c298ca277630de9021c2f12c66289db327ef8842d6a1e82727e26e"
+    },
+    {
+      "path": "assets/references/acervo-66/01-financeiro-e-pagamentos/koin-cupom.png",
+      "subject": "cupom",
+      "state": "brand",
+      "status": "acervo produzido anteriormente; aprovação individual não comprovada",
+      "source": {
+        "version": 1,
+        "member": "01-financeiro-e-pagamentos/koin-cupom.png",
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de forma e linguagem. Aplicar regras atuais de semântica, cor e perspectiva; não assumir que rótulo histórico decide o estado.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "0998ba82dbea4949d4ec9220298f11b006396ccbdc16310695f8548614290530"
+    },
+    {
+      "path": "assets/references/adicionais/koin-member-get-member.png",
+      "subject": "member get member",
+      "state": "brand",
+      "status": "referência recuperada",
+      "source": {
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência de composição frontal complexa.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "cdeeee7cf08081c8169ac0e7de5bf0d2f8617cdf5513eb1b930dc1900ead5786"
+    },
+    {
+      "path": "assets/references/bases/carteira-brand-referencia.png",
+      "subject": "carteira com notas e moeda",
+      "state": "brand",
+      "status": "referência fornecida pelo usuário",
+      "source": {
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Base direta da adaptação empty state.",
+      "width": 540,
+      "height": 540,
+      "mode": "RGBA",
+      "sha256": "dc5c1cd808b5c4bb7ccb011828b21ae60afb285d9f37d2e32cbe189f49e8a807"
+    },
+    {
+      "path": "assets/references/folhas/referencia-alertas-usuario.png",
+      "subject": "seis ícones de suporte e alertas",
+      "state": "alerta",
+      "status": "referência fornecida pelo usuário",
+      "source": {
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Folha com múltiplos ícones. Não é um ícone individual. Laranja não define empty state nas regras atuais.",
+      "width": 2048,
+      "height": 1638,
+      "mode": "RGBA",
+      "sha256": "fc32d04acb5b6f2bf84e4510d4e23d18fc8348cb9dab6dade6194abe760451a9"
+    },
+    {
+      "path": "assets/references/folhas/koin-previa-financeiro.png",
+      "subject": "financeiro",
+      "state": "brand",
+      "status": "folha de referência do acervo",
+      "source": {
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Folha de contato com vários ícones; não cortar como substituto de originais individuais.",
+      "width": 1500,
+      "height": 1998,
+      "mode": "RGBA",
+      "sha256": "d70d87df7b28e940ee7fadc3e4eb421c394089b33fbce544ff44a86a843422fa"
+    },
+    {
+      "path": "assets/references/folhas/koin-previa-apoio.png",
+      "subject": "conta e relacionamento",
+      "state": "brand",
+      "status": "folha de referência do acervo",
+      "source": {
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Versão 1 com pessoas abstratas.",
+      "width": 1500,
+      "height": 2331,
+      "mode": "RGBA",
+      "sha256": "855dee9f033e0e6c4b06deca6af0c57e3a44fb37ab926290ffe13a7659104630"
+    },
+    {
+      "path": "assets/references/folhas/koin-previa-erros-alertas.png",
+      "subject": "erros e alertas",
+      "state": "alerta-ou-erro-historico",
+      "status": "folha de referência do acervo",
+      "source": {
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Semântica atual prevalece sobre categoria histórica.",
+      "width": 900,
+      "height": 666,
+      "mode": "RGBA",
+      "sha256": "86a8bc0a309b60cd06e3d0d248643ee828af946c941f2d7f79bd1d041fd69571"
+    },
+    {
+      "path": "assets/references/exploracoes/carteira-empty-state-cinza.png",
+      "subject": "carteira vazia",
+      "state": "empty-state",
+      "status": "gerado e entregue; aprovação final não registrada",
+      "source": {
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Exemplo de remoção de conteúdo e escala de cinza. Verificar fidelidade de traço e preenchimento flat ao reutilizar.",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "sha256": "431bde3c2c20a4d0f34bf613c6a17d8281425e21a2463b95699d38e274eeda84"
+    },
+    {
+      "path": "assets/references/exploracoes/empty-state-sem-vouchers.png",
+      "subject": "porta-vouchers vazio",
+      "state": "empty-state-historico",
+      "status": "gerado e entregue; aprovação final não registrada",
+      "source": {
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Exploração anterior com laranja. Reutilizar só conceito/estrutura; a regra atual exige cinza para empty state.",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "sha256": "511ca5377e13bc8fead6231046d2797c36f8184e65c2c2502e4373c4d2813b01"
+    },
+    {
+      "path": "assets/references/exploracoes/koin-premio-a-conquistar.png",
+      "subject": "presente fechado",
+      "state": "empty-state-historico",
+      "status": "gerado e entregue; aprovação final não registrada",
+      "source": {
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Exploração anterior verde/roxa. A regra atual de empty state é cinza.",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "sha256": "f8ef81d69fa8ca182d1f0ea6ca9101ba2b4cc3c914ebc026de4da0721d8af49c"
+    },
+    {
+      "path": "assets/references/paletas/paleta-brand-original.png",
+      "subject": "paleta brand",
+      "state": "brand",
+      "status": "referência original",
+      "source": {
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "ATENÇÃO: rótulos HEX da faixa verde não correspondem visualmente às amostras. Usar tokens validados na skill, não copiar esses rótulos.",
+      "width": 2048,
+      "height": 1013,
+      "mode": "RGBA",
+      "sha256": "24755cf6fe916c4683562ef040cdc9c5ecc95482fb4f2bd40209f8d9055ed8ce"
+    },
+    {
+      "path": "assets/references/paletas/paleta-erros-alertas-original.png",
+      "subject": "paleta erros e alertas",
+      "state": "erro-alerta",
+      "status": "referência original",
+      "source": {
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Vermelho principal #F04438, laranja principal #F79009.",
+      "width": 2048,
+      "height": 465,
+      "mode": "RGBA",
+      "sha256": "638ae7708e41f6b170032701b26034b8c7d1829b14127c6a4a06182f2204c7b1"
+    },
+    {
+      "path": "assets/references/adicionais/cadeado-aberto-com-check.png",
+      "subject": "cadeado aberto com check",
+      "state": "brand",
+      "status": "gerado anteriormente; aprovação final não comprovada",
+      "source": {
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência gerada anteriormente; validar aplicação conforme diretrizes atuais.",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "sha256": "542f1c1c9cdcce8603a233aa1b98441dd94c3b5ac4df933992f1c6fa4707726f"
+    },
+    {
+      "path": "assets/references/adicionais/koin-black-friday-v1-sacola.png",
+      "subject": "black friday v1 sacola",
+      "state": "brand",
+      "status": "gerado anteriormente; aprovação final não comprovada",
+      "source": {
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência gerada anteriormente; validar aplicação conforme diretrizes atuais. Variações exploratórias de campanha, não misturar ornamentos promocionais em estados funcionais.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "722a2c3096cd9f23277eb167a5e9093a35cb525d6d3069480048919c5825aec3"
+    },
+    {
+      "path": "assets/references/adicionais/koin-black-friday-v2-carrinho.png",
+      "subject": "black friday v2 carrinho",
+      "state": "brand",
+      "status": "gerado anteriormente; aprovação final não comprovada",
+      "source": {
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência gerada anteriormente; validar aplicação conforme diretrizes atuais. Variações exploratórias de campanha, não misturar ornamentos promocionais em estados funcionais.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "d46bc7a7db29049b76a0a1ed88e8f537e493f27db425620bfdb13115eefba855"
+    },
+    {
+      "path": "assets/references/adicionais/koin-black-friday-v3-selo.png",
+      "subject": "black friday v3 selo",
+      "state": "brand",
+      "status": "gerado anteriormente; aprovação final não comprovada",
+      "source": {
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência gerada anteriormente; validar aplicação conforme diretrizes atuais. Variações exploratórias de campanha, não misturar ornamentos promocionais em estados funcionais.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "4a60f1455a19d41710ecc631bc3b2d42e2d6da7099cba0f535140dc604fd0c9e"
+    },
+    {
+      "path": "assets/references/adicionais/koin-black-friday.png",
+      "subject": "black friday",
+      "state": "brand",
+      "status": "gerado anteriormente; aprovação final não comprovada",
+      "source": {
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência gerada anteriormente; validar aplicação conforme diretrizes atuais. Variações exploratórias de campanha, não misturar ornamentos promocionais em estados funcionais.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "368cd531a58db16bb184302c9c3a9a47e502c5aaa919f285703938d38662d65b"
+    },
+    {
+      "path": "assets/references/adicionais/koin-etapa-segura.png",
+      "subject": "etapa segura",
+      "state": "brand",
+      "status": "gerado anteriormente; aprovação final não comprovada",
+      "source": {
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência gerada anteriormente; validar aplicação conforme diretrizes atuais.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "5319b0aa24a1a7205274183ac838eb4ffd8a958faa731b5cf37ec4843878c47b"
+    },
+    {
+      "path": "assets/references/adicionais/koin-mgm-high-five-simples.png",
+      "subject": "mgm high five simples",
+      "state": "brand",
+      "status": "gerado anteriormente; aprovação final não comprovada",
+      "source": {
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência gerada anteriormente; validar aplicação conforme diretrizes atuais.",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGBA",
+      "sha256": "dca4b55858e6cf5873132ed877d11b42a5b68b814333d4c32c139e1724bea31b"
+    },
+    {
+      "path": "assets/references/adicionais/koin-mgm-high-five.png",
+      "subject": "mgm high five",
+      "state": "brand",
+      "status": "gerado anteriormente; aprovação final não comprovada",
+      "source": {
+        "description": "Arquivo de referência visual incluído neste pacote."
+      },
+      "notes": "Referência gerada anteriormente; validar aplicação conforme diretrizes atuais.",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "sha256": "bc9ae629f61b11d3467ae2766790cf6d1d10e563b436717e1758a6270cb6f10b"
+    }
+  ]
+}
