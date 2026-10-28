@@ -42,7 +42,7 @@ Inclui exemplos históricos e explorações. As notas do catálogo distinguem a 
 
 ## Uso local opcional
 
-Se preferir trabalhar offline, baixe o ZIP completo pelo GitHub ou clone o repositório. O pacote já contém a estrutura inteira, sem mesclar partes. O nome da pasta externa pode ser `koinlustra-main` ou qualquer outro: a raiz é a pasta que contém `SKILL.md`, `references` e `assets`.
+Se preferir trabalhar offline, baixe o ZIP completo pelo GitHub ou clone o repositório. O pacote já contém a estrutura inteira, sem mesclar partes. O nome da pasta externa pode ser `koinlustra-main` ou qualquer outro: a raiz é a pasta que contém `SKILL.md` e `references`; os caminhos das imagens são definidos no manifesto.
 
 O assistente deve resolver os caminhos a partir do local real de `SKILL.md`, nunca de Downloads, do nome da pasta externa ou do diretório atual. Não existe configuração global nem passo de autoexecução oculto.
 
@@ -53,3 +53,4 @@ Adicione novas imagens e atualize catálogo/manifesto após revisão do time. Ma
 Para validar o pacote local com Python 3, execute `python3 scripts/validate_package.py`. O validador não instala nem modifica arquivos.
 
 Acesso público ao repositório não substitui autorização para reutilizar marca e ilustrações em outros contextos. Este pacote não adiciona uma licença de uso aberta.
+
